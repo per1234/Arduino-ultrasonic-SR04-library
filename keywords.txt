@@ -9,10 +9,10 @@
 #######################################
 #	Methods	and	Functions	(KEYWORD2)
 ####################################### 
-Distance	KEYWORD2	Distance
-DistanceAvg	KEYWORD2	Distance average
-Ping	KEYWORD2	only a ping signal
-getDistance	KEYWORD2	get distance after ping
+Distance	KEYWORD2
+DistanceAvg	KEYWORD2
+Ping	KEYWORD2
+getDistance	KEYWORD2
 
 #######################################
 #	Instances	(KEYWORD2)
